@@ -1,13 +1,4 @@
-# Cost of Living Index Forecaster
-
-[![Download Project](https://img.shields.io/badge/Download-Project-blue?style=for-the-badge&logo=streamlit)](https://github.com/Deepika-Bunga/Infosys_ml1_inflation/archive/refs/heads/main.zip)
-[![GitHub Repo](https://img.shields.io/badge/View_on-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Deepika-Bunga/Infosys_ml1_inflation)
-[![GitHub Stars](https://img.shields.io/github/stars/Deepika-Bunga/Infosys_ml1_inflation?style=for-the-badge)](https://github.com/Deepika-Bunga/Infosys_ml1_inflation/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Deepika-Bunga/Infosys_ml1_inflation?style=for-the-badge)](https://github.com/Deepika-Bunga/Infosys_ml1_inflation/network/members)
-
----
-
-## Overview
+# Cost of Living Index Forecaster - Overview
 
 The **Cost of Living Index Forecaster** is a machine learning-powered dashboard built using **Streamlit**, **TensorFlow**, and **Plotly**.  
 It predicts **urban** and **rural** cost-of-living indices**, visualizes historical trends**, and provides **interactive statistics** for analytical insight.
@@ -207,14 +198,7 @@ See the [LICENSE](LICENSE) file for more details.
 
 ## Author
 
-**Deepika Bunga**  
-B.Tech Cyber Security, Shri Vishnu engineering College For Women
-Email: [deepikabunga2004@gmail.com](mailto:deepikabunga2004@gmail.com)
+**Trideep Kumar Bunga**  
+Email: [trideepkumar800@gmail.com](mailto:trideepkumar800@gmail.com)
 
 ---
-
-## GitHub Repository
-
-[![GitHub Repo](https://img.shields.io/badge/View_on-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Deepika-Bunga/Infosys_ml1_inflation)
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue?style=for-the-badge&logo=zip)](https://github.com/Deepika-Bunga/Infosys_ml1_inflation/archive/refs/heads/main.zip)
-[![Issues](https://img.shields.io/github/issues/Deepika-Bunga/Infosys_ml1_inflation?style=for-the-badge)](https://github.com/Deepika-Bunga/Infosys_ml1_inflation/issues)
